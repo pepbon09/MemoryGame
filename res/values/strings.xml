@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="fruta">fruta</string>
+    <string name="destapada">destapada</string>
+    <string name="tituloJ1">Jugador 1</string>
+    <string name="puntuacionJ1">0</string>
+    <string name="tituloJ2">Jugador 2</string>
+    <string name="puntuacionJ2">0</string>
+    <string name="fruta1">Naranja</string>
+    <string name="fruta2">Manzana</string>
+    <string name="fruta3">Pera</string>
+    <string name="fruta4">Limon</string>
+    <string name="fruta5">Platano</string>
+    <string name="fruta6">Cerezas</string>
+    <string name="fruta7">Uvas</string>
+    <string name="fruta8">Piña</string>
+    <string name="fruta9">Sandia</string>
+    <string name="fruta10">Melon</string>
+    <string name="fruta11">Kiwi</string>
+    <string name="fruta12">Mango</string>
+    <string name="fruta13">Fresas</string>
+    <string name="fruta14">Arandanos</string>
+    <string name="fruta15">Aguacate</string>
+    <string name="fruta16">Melocoton</string>
+    <string name="fruta17">Granada</string>
+    <string name="fruta18">Frambuesa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
